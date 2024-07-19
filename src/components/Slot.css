@@ -1,0 +1,38 @@
+.slot {
+    display: inline-block;
+    margin-top: 5px;
+    margin-left: 15px;
+    margin-right: 15px;
+    background-size: 150px;
+    width: 150px;
+    height: 150px;
+  }
+  
+  .a1 {
+    background-image: url("../src/tiles/seven.png");
+  }
+  
+  .a2 {
+    background-image: url("../src/tiles/cherries.png");
+  }
+  
+  .a3 {
+    background-image: url("../src/tiles/club.png");
+  }
+  
+  .a4 {
+    background-image: url("../src/tiles/diamond.png");
+  }
+  
+  .a5 {
+    background-image: url("../src/tiles/heart.png");
+  }
+  
+  .a6 {
+    background-image: url("../src/tiles/spade.png");
+  }
+  
+  .a7 {
+    background-image: url("../src/tiles/joker.png");
+  }
+  

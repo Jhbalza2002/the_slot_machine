@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto');
+@import url('https://fonts.googleapis.com/css?family=Roboto+Mono');
+
+main {
+  border-radius: 5px;
+  background-color: #EF5350;
+  margin-top: 30px;
+  padding: 20px 15px;
+  margin-left: calc((100% - 580px) / 2);
+  width: 550px;
+}
+
+#Slots {
+  border-radius: 15px;
+  background-color: #FAFAFA;
+}
+
+#Gira {
+  margin-top: 25px;
+  padding: 25px;
+  border-radius: 5px;
+  text-align: center;
+  background-color: #AB47BC;
+  color: #FFFFFF;
+  font-size: 25px;
+}
+
+#Gira:hover {
+  background-color: #BA68C8;
+}
+
+#options {
+  margin-top: 20px;
+  padding-top: 5px;
+  border-radius: 5px;
+  background-color: #C62828;
+  color: #FFFFFF;
+}
